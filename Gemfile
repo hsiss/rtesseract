@@ -14,5 +14,6 @@ group :test do
   gem "rmagick", :platform => :ruby
   gem "mini_magick"
   gem "quick_magick"
+  gem "tesseract_bin"
 end
 
